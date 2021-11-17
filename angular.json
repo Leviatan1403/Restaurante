@@ -24,9 +24,20 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/vendor/bootstrap/css/bootstrap.min.css",
+              "src/assets/css/Relaway.css",
+              "src/assets/css/Lora.css",
+              "src/assets/css/fontawesome.css",
+              "src/assets/css/brands.css",
+              "src/assets/css/solid.css",
+              "src/assets/css/business-casual.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/vendor/js/brands.js",
+              "src/assets/vendor/js/solid.js",
+              "src/assets/vendor/js/fontawesome.js"
+            ]
           },
           "configurations": {
             "production": {

@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+.clearfix{
+    clear: both;
+    float: none;
+}
+
+.imgdes {
+    height: 600px !important;
+}
